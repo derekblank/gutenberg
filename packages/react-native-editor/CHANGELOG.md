@@ -10,6 +10,8 @@ For each user feature we should also add a importance categorization label  to i
 -->
 
 ## Unreleased
+
+## 1.0.8
 -   [*] Exit Preformatted and Verse blocks by triple pressing the Return key [#53354]
 
 ## 1.105.0
